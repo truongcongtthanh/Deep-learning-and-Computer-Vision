@@ -22,4 +22,5 @@ https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f62
 ### Calculating mAP
 ![](https://i.imgur.com/3sp27hX.png)
 - N: ở đây là số label
-- 
+![](https://i.imgur.com/NRwLSHp.png)
+
